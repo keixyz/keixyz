@@ -1,6 +1,6 @@
 # keixyz.
 
-Merhabalar ben kei 2 yıldır discord adlı platformda bot yapıyorum ve bunun dışında birçok dil biliyorum bunlardan bazıları Pascal, Basic, C, C#, C++, R, Moo, Java, JavaScript, Cobol, Perl, PHP, Python, Ada, Fortran, Delphi ve Swift' tir.
+Merhabalar ben kei 1.5 yıldır discord adlı uygulamada sunuculara özel bot yapıyorum. Bu github sayfasında yaptığım botlardan bir kaç botumu paylaşacağım sizlere umarım bu botlarla yardımcı olabilirim. İyi kodlamalar :)
 
 <p align = "center">
   Benimle iletişime geçebileceğiniz platformlar:
