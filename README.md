@@ -1,4 +1,4 @@
-# Vegas.
+# keixyz.
 
 Merhabalar ben kei 2 yıldır discord adlı platformda bot yapıyorum ve bunun dışında birçok dil biliyorum bunlardan bazıları Pascal, Basic, C, C#, C++, R, Moo, Java, JavaScript, Cobol, Perl, PHP, Python, Ada, Fortran, Delphi ve Swift' tir.
 
@@ -12,7 +12,7 @@ Merhabalar ben kei 2 yıldır discord adlı platformda bot yapıyorum ve bunun d
 <a href="https://www.youtube.com/channel/UCXtRYT85h4qIhuYJg4nU8jw" target="_blank"><img src="https://img.shields.io/badge/youtube-r89DA.svg?&color=ff0000&style=for-the-badge&logo=youtube&logoColor=white"/></a>
  </p>
 
-## Github (Vegas) Stats
+## Github (keixyz) Stats
 
 <p align = "center">
  Profile tıklayan kişi sayısı:
