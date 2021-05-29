@@ -18,7 +18,7 @@ Merhabalar ben kei 2 yıldır discord adlı platformda bot yapıyorum ve bunun d
  Profile tıklayan kişi sayısı:
 </p>
 <p align = "center">
-<img src="https://profile-counter.glitch.me/{Vegasss}/count.svg" />
+<img src="https://profile-counter.glitch.me/{keixyz}/count.svg" />
 </p>
 
 <div align="center">
