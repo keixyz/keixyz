@@ -27,10 +27,4 @@ Merhabalar ben kei 2 yıldır discord adlı uygulamada sunuculara özel bot yap�
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keixyz&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
 
-</div>
-<div align="center">
-<h3>Discord Activity</h3>
-   <a href="https://discord.com/users/209631461865816064" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/209631461865816064">
-   </a>
-</div>
+
