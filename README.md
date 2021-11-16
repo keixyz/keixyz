@@ -8,8 +8,6 @@ Merhabalar ben kei 2 yıldır discord adlı uygulamada sunuculara özel bot yap�
 
 <p align = "center">
 <a href="https://discord.com/users/209631461865816064" target="_blank"><img src="https://img.shields.io/badge/discord-r89DA.svg?&color=7289da&style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://www.instagram.com/zamyotov" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCXtRYT85h4qIhuYJg4nU8jw" target="_blank"><img src="https://img.shields.io/badge/youtube-r89DA.svg?&color=ff0000&style=for-the-badge&logo=youtube&logoColor=white"/></a>
  </p>
 
 ## Github (keixyz) Stats
