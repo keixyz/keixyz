@@ -1,6 +1,6 @@
 # keixyz.
 
-Merhabalar ben kei 2 yıldır discord adlı uygulamada sunuculara özel bot yapıyorum. Bu github sayfasında yaptığım botlardan bir kaç botumu paylaşacağım sizlere umarım bu botlarla yardımcı olabilirim. İyi kodlamalar :)
+Bu github sayfamda paylaştığım kodlardan yararlanabilirsiniz.
 
 <p align = "center">
   Benimle iletişime geçebileceğiniz platformlar:
