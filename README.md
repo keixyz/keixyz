@@ -1,13 +1,4 @@
-<div align="center">
-  <!-- Senin koyduğun görsel -->
-  <img src="https://i.pinimg.com/1200x/60/1d/11/601d11848b10c68d0b07295df9358c55.jpg" width="100%" />
 
-  <!-- İstersen buraya herhangi bir coding GIF linki koyabilirsin -->
-  <!-- Aşağıdaki satırdaki URL'yi kendi GIF'inle değiştirmen yeterli -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTl1YWd4MXF1bGx0eG00cXA3eXE4OXlrYjVqc3M5cXQ5YjU2aG5kdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IpeYSEZshTefe/giphy.gif" height="140" />
-</div>
-
-<br/>
 
 <h1 align="center">Kei (keishu.)</h1>
 <p align="center">Full-stack & Discord systems · JavaScript based</p>
