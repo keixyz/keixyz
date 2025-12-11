@@ -1,8 +1,6 @@
 <div align="center">
-
   <!-- Profile views -->
   <img src="https://komarev.com/ghpvc/?username=keixyz&style=for-the-badge&color=blueviolet" />
-
 </div>
 
 ---
@@ -18,7 +16,6 @@
 ## 🏅 Discord Badges
 
 <p align="center">
-  <!-- Hangi rozetler sende varsa onları bırak, diğerlerini silebilirsin -->
   <img src="https://cdn.jsdelivr.net/gh/DiscordBadges/Badges/assets/active_developer.svg" width="55" />
   <img src="https://cdn.jsdelivr.net/gh/DiscordBadges/Badges/assets/nitro.svg" width="55" />
   <img src="https://cdn.jsdelivr.net/gh/DiscordBadges/Badges/assets/boost3.svg" width="55" />
